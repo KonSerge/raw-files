@@ -4,7 +4,7 @@
   "arrayField": ["Tag1", "Tag2"],
   "arrayStringField": "Tag1"
 }, {
-  "test": "feed1",
+  "test": "value2",
   "field": "field2",
   "secondField": "Field3"
 }]
