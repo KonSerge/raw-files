@@ -13,6 +13,7 @@
   "secondField": "Field3",
   "nested": {
     "country": "England",
-    "value": "115"
+    "value": "115",
+    "tags": ["faketag1", "faketag2"]
   }
 }]
