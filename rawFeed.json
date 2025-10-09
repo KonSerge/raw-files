@@ -1,6 +1,5 @@
 [{
-  "test": "feed1",
-  "field": "field2",
+  "iocValue": "Ioc1",
   "arrayField": ["Tag1", "Tag2"],
   "arrayStringField": "Tag1",
   "nested": {
@@ -8,11 +7,11 @@
     "value": "115"
   }
 }, {
-  "test": "value2",
+  "iocValue": "Ioc2",
   "field": "field2",
-  "secondField": "Field3",
+  "unstableField": "Field3",
   "nested": {
-    "country": "England",
+    "country": "Russia",
     "value": "115",
     "tags": ["faketag1", "faketag2"]
   }
