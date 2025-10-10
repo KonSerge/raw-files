@@ -3,12 +3,13 @@
   "arrayField": ["Tag1", "Tag2"],
   "arrayStringField": "Tag1",
   "nested": {
-    "country": "England",
+    "country": ["Russia", "USA"],
     "value": "115"
   }
 }, {
   "iocValue": "Ioc2",
   "field": "field2",
+  "arrayStringField": ["Tag1", "THIS IS ARRAY TAG"],
   "unstableField": "Field3",
   "nested": {
     "country": "Russia",
